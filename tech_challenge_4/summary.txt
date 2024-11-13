@@ -1,0 +1,11 @@
+A emoção happy apareceu 1059 vezes
+A emoção surprise apareceu 97 vezes
+A emoção fear apareceu 406 vezes
+A emoção angry apareceu 131 vezes
+A emoção neutral apareceu 859 vezes
+A emoção sad apareceu 870 vezes
+A emoção disgust apareceu 1 vezes
+Braços levantados: 327
+Mãos ao lado da cabeça: 69
+Poses anomalas: 2418
+Total de frames analisados: 3326
