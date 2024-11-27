@@ -19,6 +19,6 @@ O desafio foi implementado em python 3.11, utilizando as bibliotecas:
 Não achei necessário realizar a sumarização automática, uma vez que o código já organiza e gera um arquivo de saída com as informações necessárias.
 
 ## Execução
-`pip install opencv-python mediapipe deepface tqdm`
+`pip install opencv-python mediapipe deepface tqdm tf_keras`
 
 `python emotion_analysis.py`

@@ -1,2 +1,5 @@
-# OS
-.DS_Store
+# Ignorar a pasta de ambiente virtual
+tech_challenge_4/.venv/
+
+# Ignorar a pasta de partes do vídeo
+tech_challenge_4/parts/

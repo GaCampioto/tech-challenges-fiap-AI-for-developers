@@ -1,11 +1,8 @@
-A emoção happy apareceu 1059 vezes
-A emoção surprise apareceu 97 vezes
-A emoção fear apareceu 406 vezes
-A emoção angry apareceu 131 vezes
-A emoção neutral apareceu 859 vezes
-A emoção sad apareceu 870 vezes
-A emoção disgust apareceu 1 vezes
-Braços levantados: 327
-Mãos ao lado da cabeça: 69
-Poses anomalas: 2418
-Total de frames analisados: 3326
+Duração total do vídeo: 11.07 segundos
+A emoção 'sad' apareceu por 1.17 segundos | 10.54% do vídeo
+A emoção 'happy' apareceu por 4.67 segundos | 42.17% do vídeo
+A emoção 'neutral' apareceu por 2.33 segundos | 21.08% do vídeo
+A emoção 'fear' apareceu por 2.50 segundos | 22.59% do vídeo
+A emoção 'angry' apareceu por 1.17 segundos | 10.54% do vídeo
+A emoção 'surprise' apareceu por 0.17 segundos | 1.51% do vídeo
+Total de anomalias detectadas: 32
