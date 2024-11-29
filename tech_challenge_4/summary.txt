@@ -1,8 +1,8 @@
-Duração total do vídeo: 11.07 segundos
-A emoção 'sad' apareceu por 1.17 segundos | 10.54% do vídeo
-A emoção 'happy' apareceu por 4.67 segundos | 42.17% do vídeo
-A emoção 'neutral' apareceu por 2.33 segundos | 21.08% do vídeo
-A emoção 'fear' apareceu por 2.50 segundos | 22.59% do vídeo
-A emoção 'angry' apareceu por 1.17 segundos | 10.54% do vídeo
-A emoção 'surprise' apareceu por 0.17 segundos | 1.51% do vídeo
-Total de anomalias detectadas: 32
+Duração total do vídeo: 110.87 segundos
+A emoção 'sad' apareceu por 28.33 segundos | 25.56% do vídeo
+A emoção 'angry' apareceu por 4.67 segundos | 4.21% do vídeo
+A emoção 'fear' apareceu por 14.33 segundos | 12.93% do vídeo
+A emoção 'happy' apareceu por 35.50 segundos | 32.02% do vídeo
+A emoção 'neutral' apareceu por 27.83 segundos | 25.11% do vídeo
+A emoção 'surprise' apareceu por 3.33 segundos | 3.01% do vídeo
+Total de anomalias detectadas: 255

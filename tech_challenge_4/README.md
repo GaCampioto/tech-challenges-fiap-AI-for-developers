@@ -15,6 +15,7 @@ O desafio foi implementado em python 3.11, utilizando as bibliotecas:
 - mediapipe
 - deepface
 - tqdm
+- tensor flow - keras
 
 Não achei necessário realizar a sumarização automática, uma vez que o código já organiza e gera um arquivo de saída com as informações necessárias.
 
